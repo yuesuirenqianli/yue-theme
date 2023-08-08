@@ -1,0 +1,21 @@
+{
+  "name": "yue-theme",
+  "displayName": "yue-theme",
+  "description": "a color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "yue-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yue-theme-color-theme.json"
+      }
+    ]
+  }
+}
