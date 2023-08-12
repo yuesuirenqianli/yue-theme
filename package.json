@@ -3,6 +3,11 @@
   "displayName": "yue-theme",
   "description": "a color theme",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuesuirenqianli/yue-theme.git"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
