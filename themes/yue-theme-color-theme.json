@@ -174,7 +174,7 @@
     "banner.background": "#292929",
     // Quick picker colors
     "pickerGroup.foreground": "#66b395",
-    "quickInput.background": "#050505",
+    "quickInput.background": "#202020",
     // Integrated Terminal colors
     "terminal.foreground": "#c0c0c0",
     "terminal.ansiBlack": "#333333",
