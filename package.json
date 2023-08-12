@@ -1,9 +1,10 @@
 {
-  "name": "yue-theme",
-  "displayName": "yue-theme",
+  "name": "yue-code-theme",
+  "displayName": "yue-code-theme",
   "description": "a color theme",
   "version": "0.0.1",
   "icon": "icon.png",
+  "publisher": "yuesuirenqianli",
   "repository": {
     "type": "git",
     "url": "https://github.com/yuesuirenqianli/yue-theme.git"
